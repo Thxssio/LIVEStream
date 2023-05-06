@@ -11,5 +11,5 @@
 PC Config
 
 * RTX3050
-* Placa de Rede 2.5gb
+* Placa de Rede 2.5gb/s
 * Notebook NAVE
